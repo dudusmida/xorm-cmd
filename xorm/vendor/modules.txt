@@ -1,0 +1,63 @@
+# cloud.google.com/go v0.37.0
+## explicit
+cloud.google.com/go/civil
+# github.com/cockroachdb/apd v1.1.0
+## explicit
+# github.com/denisenkom/go-mssqldb v0.0.0-20180707235734-242fa5aa1b45
+## explicit
+github.com/denisenkom/go-mssqldb
+github.com/denisenkom/go-mssqldb/internal/cp
+# github.com/go-sql-driver/mysql v1.4.1
+## explicit
+github.com/go-sql-driver/mysql
+# github.com/go-xorm/builder v0.0.0-20180826070321-377feedb49e3
+## explicit
+github.com/go-xorm/builder
+# github.com/go-xorm/core v0.6.2 => github.com/go-xorm/core v0.6.2
+## explicit
+github.com/go-xorm/core
+# github.com/go-xorm/sqlfiddle v0.0.0-20180821085327-62ce714f951a
+## explicit
+# github.com/go-xorm/xorm v0.0.0-20180925133144-7a9249de3324
+## explicit
+github.com/go-xorm/xorm
+# github.com/jackc/fake v0.0.0-20150926172116-812a484cc733
+## explicit
+# github.com/jackc/pgx v3.2.0+incompatible
+## explicit
+# github.com/json-iterator/go v1.1.10
+## explicit
+github.com/json-iterator/go
+# github.com/lib/pq v0.0.0-20180523175426-90697d60dd84
+## explicit
+github.com/lib/pq
+github.com/lib/pq/oid
+# github.com/lunny/log v0.0.0-20160921050905-7887c61bf0de
+## explicit
+github.com/lunny/log
+# github.com/mattn/go-sqlite3 v1.10.0
+## explicit
+github.com/mattn/go-sqlite3
+# github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742
+github.com/modern-go/reflect2
+# github.com/pkg/errors v0.8.0
+## explicit
+# github.com/satori/go.uuid v1.2.0
+## explicit
+# github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24
+## explicit
+# github.com/ziutek/mymysql v0.0.0-20171217234033-ff6cc86d3d93
+## explicit
+github.com/ziutek/mymysql/godrv
+github.com/ziutek/mymysql/mysql
+github.com/ziutek/mymysql/native
+# golang.org/x/crypto v0.0.0-20190313024323-a1f597ede03a
+## explicit
+golang.org/x/crypto/md4
+# google.golang.org/appengine v1.4.0
+google.golang.org/appengine/cloudsql
+# gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127
+## explicit
+# github.com/go-xorm/core => github.com/go-xorm/core v0.6.2
