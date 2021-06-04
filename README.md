@@ -1,6 +1,6 @@
 # xorm-cmd2
 本项目基于[xorm-cmd](https://github.com/go-xorm/cmd)
-依据自身需求在其基础上增加所需要的功能，目前主要针对mysql的代码生成做调整，其他的诸如暂时没有进行自测
+依据自身需求在其基础上增加所需要的功能，目前主要针对mysql的代码生成做调整，
 原项目讲解可以去[xorm-cmd](https://github.com/go-xorm/cmd)参考
 
 # 新增功能
