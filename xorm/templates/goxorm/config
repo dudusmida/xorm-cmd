@@ -5,3 +5,4 @@ ignoreColumnsJSON=
 created=
 updated=
 deleted=
+structNote ={"table_name1":"note","table_name2":"note"}

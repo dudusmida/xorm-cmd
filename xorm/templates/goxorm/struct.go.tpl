@@ -8,6 +8,7 @@ import (
 {{end}}
 
 {{range .Tables}}
+{{StructNote .Name}}
 type {{Mapper .Name}} struct {
 {{$table := .}}
 {{range .ColumnsSeq}}{{$col := $table.GetColumn .}}	{{Mapper $col.Name}}	{{Type $col}} {{Tag $table $col}}
